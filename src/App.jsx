@@ -14,6 +14,7 @@ function App() {
     <div> 
 
       <h1>3.4 PA Hipes</h1> 
+      <h1>Making a change to push and remove</h1>
 
       <Counter /> 
       <FormInput />
